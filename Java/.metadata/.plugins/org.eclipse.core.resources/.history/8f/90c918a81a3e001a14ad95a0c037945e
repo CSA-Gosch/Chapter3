@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+//Logan Gosch
+//Date:
+public class ParadiseInfo2 {
+
+	public static void main(String[] args) 
+	{
+		double price;
+		double discount;
+		double savings;
+		Scanner input = new Scanner(System.in);
+		ParadiseInfo2.displayInfo();
+	}
+}
